@@ -1,4 +1,4 @@
-# Andreas & Daniel: Flexbox
+# Andreas & Daniel: FlexBox
 
 This is an updated, responsive remake of the small [Andreas & Daniel](https://github.com/Ciocolici/Andreas-And-Daniel) website project I created during my Web Development internship at Terrera AG. The remake uses Flexbox and Media Queries to provide a better layout and mobile-friendly experience.
 
